@@ -1,0 +1,19 @@
+.genres {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+.genres li {
+  display: inline-block;
+}
+.genres li a {
+  display: block;
+  padding: 10px 5px;
+  font-size: 18px;
+  color: #b31212;
+  transition: .3s all;
+}
+.genres li a:hover {
+  text-decoration: none; 
+  color: #d23232;
+}

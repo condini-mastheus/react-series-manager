@@ -1,0 +1,55 @@
+{
+  "series": [
+    {
+      "id": 1,
+      "name": "How I met your mother",
+      "status": "watched",
+      "genre": "Comédia",
+      "comments": "Muito bom"
+    },
+    {
+      "id": 2,
+      "name": "Friends",
+      "status": "watching",
+      "genre": "Comédia",
+      "current": {
+        "episode": "01",
+        "season": "09"
+      },
+      "comments": "Bom para descontrair"
+    },
+    {
+      "id": 3,
+      "name": "Breaking Bad",
+      "status": "watched",
+      "genre": "Drama",
+      "comments": "Say My Name - melhor cena"
+    },
+    {
+      "name": "Brooklyn 99",
+      "genre": "Comédia",
+      "status": "watching",
+      "comment": "Eu gosto do Jake Peralta",
+      "id": 5
+    },
+    {
+      "name": "The Ranch",
+      "genre": "Comédia",
+      "status": "watching",
+      "comment": "Eu gosto do Beau Bennet",
+      "id": 6
+    },
+    {
+      "name": "Orange is the new black",
+      "genre": "Drama",
+      "status": "toWatch",
+      "comment": "Nunca vi, não gosto",
+      "id": 7
+    }
+  ],
+  "genres": [
+    "Comédia",
+    "Drama",
+    "Ação"
+  ]
+}
